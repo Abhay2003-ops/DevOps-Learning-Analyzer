@@ -1,3 +1,4 @@
+#Constants file to store reusable values
 APP_NAME = "DevOps Path Finder"
 
 USER_NAME_PROMPT = "Enter your name: "

@@ -8,7 +8,7 @@ def run():
 
     user_data = user_inputs.get_basic_user_info()
 
-    print("\n✅ User Information Collected:")
+    print("\n User Information Collected:")
     print(f"Name: {user_data['name']}")
     print(f"Education: {user_data['education']}")
     print(f"Expertise Level: {user_data['expertise']}")
